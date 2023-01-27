@@ -26,3 +26,8 @@ __Nota: Los siguientes pasos para WebService se realizaron desde Postman importa
 
 ![image](https://user-images.githubusercontent.com/123605259/214723762-524b037a-b863-4443-a518-5844a20f4886.png)
 
+# Mobile
+
+__Nota: Los siguientes pasos para Mobile se realizaron desde Intellij utilizando el lenguaje javas, para el escenario de pruebas se uso Cucumber, se implementa un gestor de dependencias Maven.__
+
+## 1. Agregar una mascota realizando un POST al path /v2/pet:
