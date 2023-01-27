@@ -28,12 +28,36 @@ __Nota: Los siguientes pasos para WebService se realizaron desde Postman importa
 
 # Mobile
 
-__Nota: Los siguientes pasos para Mobile se realizaron desde Intellij utilizando el lenguaje javas, para el escenario de pruebas se uso Cucumber, se implementa un gestor de dependencias Maven.__
+__Nota: Los siguientes pasos para Mobile se realizaron desde Intellij utilizando el lenguaje java, para el escenario de pruebas se uso Cucumber, se implementa un gestor de dependencias Maven.__
 
 ## 1. Sección Login:
-__Se realiza el Login.__
+__Se realiza el Login, este se ejecuta ingresando a la carpeta src/java/runner/DemoTest. En Tags se coloca el nombre del caso que se quiere probar, en este caso LOGIN, de acuerdo al feature__
 
 
 ![login](https://user-images.githubusercontent.com/123605259/215004909-a074dca0-a672-4671-a478-45b813590467.png)
+
+
+__Se realiza el Signup, este se ejecuta ingresando a la carpeta src/java/runner/DemoTest. En Tags se coloca el nombre del caso que se quiere probar, en este caso SIGNGUP, de acuerdo al feature__
+
+
+![singup1](https://user-images.githubusercontent.com/123605259/215009422-e1101674-7716-4131-b0e5-e806dea39489.png)
+
+
+## 2. Sección Forms:
+__Se realiza el Forms, este se ejecuta ingresando a la carpeta src/java/runner/DemoTest. En Tags se coloca el nombre del caso que se quiere probar, en este caso FORM, de acuerdo al feature__
+
+
+![FORM](https://user-images.githubusercontent.com/123605259/215009531-28b9ca10-741c-4e0c-b3aa-a47febacf5c1.png)
+
+
+## 3. Sección Webview:
+__Se realiza el Webview, este se ejecuta ingresando a la carpeta src/java/runner/DemoTest. En Tags se coloca el nombre del caso que se quiere probar, en este caso WEBVIEW, de acuerdo al feature__
+
+
+![webviewer](https://user-images.githubusercontent.com/123605259/215009742-56a538b2-6c5d-4dd9-a145-e1e06d7b6632.png)
+
+
+
+
 
 
